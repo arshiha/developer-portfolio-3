@@ -30,3 +30,8 @@ section{
     background-image: url(bannera.jpg);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image: url(bannera.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
